@@ -1,5 +1,6 @@
 # DogCatClassifier 
 Our project is a face recognition program using OpenCV in Python with Convolution layers
+
 This program will differentiate between Dogs aka doggos.
 
 Eg:
@@ -15,5 +16,6 @@ Eg:
 
 
 ##References:
-Dashwood, H. (2021, December 7th). A Dog Detector and Breed Classifier - Towards Data Science. Medium. Recovered March 24th 2022, from https://towardsdatascience.com/a-dog-detector-and-breed-classifier-4feb99e1f852
+Dashwood, H. (2021, December 7th). A Dog Detector and Breed Classifier - Towards Data Science. Medium. 
+Recovered March 24th 2022, from https://towardsdatascience.com/a-dog-detector-and-breed-classifier-4feb99e1f852
 
