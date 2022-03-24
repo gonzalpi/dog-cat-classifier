@@ -3,7 +3,7 @@ Our project is a face recognition program using OpenCV in Python with Convolutio
 
 This program will differentiate between Dogs aka doggos.
 
-Eg:
+
 ![image](https://user-images.githubusercontent.com/74560600/159771469-073f5178-fd59-4995-a6c7-3e726f0cef6e.png)
 
 
