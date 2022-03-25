@@ -13,6 +13,6 @@ model = tf.keras.models.load_model("model1")
 path = sys.argv[1]
 img = image.load_img(path, target_size=(100, 100))
 prediction = model.predict(img_tensor(path)/255)
-category = ["dog", "cat"]
+category = ["DOGGO", "MICHI"]
 for count, val in enumerate(prediction[0]):
-    if round(val): print("THIS IS A " + category[count].upper())
+    if round(val): print("THIS IS A " + category[count])
