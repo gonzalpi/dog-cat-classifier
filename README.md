@@ -2,6 +2,12 @@
 
 Our project is a image recognition program using OpenCV in Python with Convolution layers
 
+### How to run
+1. Install libraries in requirements.txt
+2. Run the following line where ```file``` is the path to the image file to classify
+
+```python3 classifier.py file```
+
 ### This program will differentiate between Dogs (a.k.a. doggos)
 
 ![image](https://user-images.githubusercontent.com/74560600/159771469-073f5178-fd59-4995-a6c7-3e726f0cef6e.png)
