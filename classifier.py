@@ -8,7 +8,7 @@ def img_tensor(path):
     tensor = np.expand_dims(img, axis=0)
     return np.mean(tensor, axis=3)
 
-model = tf.keras.models.load_model("model1")
+model = tf.keras.models.load_model("model2")
 
 path = sys.argv[1]
 img = image.load_img(path, target_size=(100, 100))
