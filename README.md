@@ -1,6 +1,6 @@
 # DogCatClassifier 
 
-Our project is a image recognition program using OpenCV in Python with Convolution layers
+Our project is a image recognition program using tensorflow in Python with Convolution layers
 
 ### This program will differentiate between Dogs (a.k.a. doggos)
 
@@ -34,3 +34,11 @@ Basavarahaiah, M. (2019, February 8th). Maxpooling vs minpooling vs average pool
 Dashwood, H. (2021, December 7th). A Dog Detector and Breed Classifier. Towards Data Science, Medium. Retrieved March 24th 2022, from [https://towardsdatascience.com/a-dog-detector-and-breed-classifier-4feb99e1f852](https://towardsdatascience.com/a-dog-detector-and-breed-classifier-4feb99e1f852)
 
 Rosebrock, A. (2018, December 31st). Keras Conv2D and Convolutional Layers. PyImageSearch. Retrieved March 24th 2022, from [https://pyimagesearch.com/2018/12/31/keras-conv2d-and-convolutional-layers/](https://pyimagesearch.com/2018/12/31/keras-conv2d-and-convolutional-layers/)
+
+Ringa Tech. (2021, 14 septiembre). Crea un clasificador de perros y gatos con IA, Python y Tensorflow - Proyecto completo [Vídeo]. YouTube. [https://www.youtube.com/watch?v=DbwKbsCWPSg](https://www.youtube.com/watch?v=DbwKbsCWPSg)
+
+Li, J. (2020). Standford Dogs Dataset. Kaggle. Retrieved from: 
+[https://www.kaggle.com/datasets/jessicali9530/stanford-dogs-dataset](https://www.kaggle.com/datasets/jessicali9530/stanford-dogs-dataset)
+
+Cat Breeds Dataset. (2020). Kaggle. Retrieved from: 
+[https://www.kaggle.com/datasets/ma7555/cat-breeds-dataset](https://www.kaggle.com/datasets/ma7555/cat-breeds-dataset)
